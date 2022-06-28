@@ -1,5 +1,7 @@
 ### Hello 👋
 
+-   Hi I'm Amr 
+
 I'm a software developer specializing in Internet applications and have great experience in Software development. My main responsibilities over the past few years have been to design databases, optimize web and mobile applications development Applications, I'm trying to build something great.
 
 
